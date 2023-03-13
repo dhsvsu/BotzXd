@@ -61,14 +61,6 @@ restoreBackUp(){
     sudo php artisan optimize:clear
 }
 echo "Copyright (c) FangzXd"
-echo "┈┈┈╲┈┈┈┈╱
-┈┈┈╱▔▔▔▔╲
-┈┈┃┈▇┈┈▇┈┃
-╭╮┣━━━━━━┫╭╮
-┃┃┃┈┈┈┈┈┈┃┃┃
-╰╯┃┈┈┈┈┈┈┃╰╯
-┈┈╰┓┏━━┓┏╯
-┈┈┈╰╯┈┈╰╯"
 echo ""
 echo "Creator : Fangz Official"
 echo ""
